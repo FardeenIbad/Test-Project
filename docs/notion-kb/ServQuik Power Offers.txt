@@ -1,0 +1,435 @@
+Here we go — 5 power offers you can pitch today.
+
+---
+
+## 1️⃣ After-Hours Revenue Rescue™ – AI Receptionist
+
+**Offer Name**: After-Hours Revenue Rescue™ – AI Receptionist
+
+**Target Customer**:
+
+* **Agency size**: 2–10 person independent broker/agency
+* **Current state**: Phones ring all day, no dedicated after-hours coverage, basic or no website chat
+* **Pain point**: Missing 30–40% of quote requests that come in after 5pm and on weekends, plus 1–2 missed calls/day during busy periods (= $20K–$50K+ in lost premium annually)
+
+**Offer Type**: AI-Only
+
+---
+
+### Components
+
+* 24/7 AI Voice Receptionist on your main phone line (after-hours + overflow during the day)
+* Instant missed-call text-back + AI SMS follow-up to capture quote details and book a call
+* Basic web chat widget connected to the same AI for “Get a quote” and “Make a change” flows
+* Insurance-specific scripts for personal auto/home/tenant and small commercial lines
+* Instant email notifications + daily summary of missed calls and leads
+* CASL-compliant messaging setup for Canadian agencies
+* Done-for-you configuration, staff training, and 30-day optimization check-in
+
+---
+
+### Pricing
+
+* **Setup**: **$1,500** one-time
+* **Monthly**: **$199/month**
+
+---
+
+### Positioning Statement
+
+“We turn your phone into a 24/7 producer so every missed call and after-hours inquiry is answered, qualified, and booked — without you hiring another CSR.”
+
+---
+
+### ROI Calculation
+
+Conservative scenario:
+
+* Assume just **3 extra policies/month** captured after-hours
+* Average **annual premium** per policy: **$1,200**
+* 3 policies/month × 12 months = **36 policies/year**
+* 36 × $1,200 = **$43,200 in annual premium**
+
+Investment:
+
+* Year 1 cost = $1,500 setup + ($199 × 12) = $1,500 + $2,388 = **$3,888**
+
+You’re trading **$3,888** for a realistic **$43,200+** in extra written premium — ~**11x** ROI, and that’s *before* any cross-sell or renewals.
+
+---
+
+### Social Proof Hook
+
+“Buchanan Insurance, a Germania-referred broker, wrote us a $5,000 check to custom-build conversational quote intake for 21+ products because they were done losing after-hours business — you’re getting a streamlined version of the same engine.”
+
+---
+
+### Objection Handled
+
+**Objection**: “My clients will hate talking to a robot / our customers are older.”
+
+**Answer**: We start by **only** handling after-hours and overflow calls with warm, insurance-specific scripts, then hand off to your team for anything complex. You approve the scripts, tone, and flows before go-live and can switch back to voicemail with one call if you don’t like it.
+
+---
+
+### Urgency/Scarcity Element
+
+We’ll only onboard **5 agencies/month** into After-Hours Revenue Rescue to maintain call quality and support. Once that month’s slots are gone, you’re waiting until the next cycle — and every month you wait is another 30+ days of lost after-hours revenue.
+
+---
+
+---
+
+## 2️⃣ Full-Funnel Growth Bundle™ – Website, Ads & 24/7 AI
+
+**Offer Name**: Full-Funnel Growth Bundle™ – Website, Ads & 24/7 AI
+
+**Target Customer**:
+
+* **Agency size**: 1–5 producers, growth-focused
+* **Current state**: Outdated or no website, no consistent online lead flow, relying on walk-ins and referrals
+* **Pain point**: No predictable new quotes; competitors with better websites and ads are winning digital shoppers
+
+**Offer Type**: Bundled (Website + Meta Ads + AI System)
+
+---
+
+### Components
+
+* High-converting insurance website (or rebuild) with clear quote funnels for personal lines and small commercial
+* Meta (Facebook/Instagram) ad campaigns built around “Same-Day Quote” and “Text-to-Quote” offers
+* 24/7 AI Omni Agent (chat + email + voice + SMS) handling:
+
+  * Quote intake
+  * Basic coverage questions
+  * Appointment booking with producers
+* CASL-compliant lead capture and messaging templates (for Canadian brokers)
+* Monthly performance reporting with “quotes requested” and “appointments booked” KPIs
+* Done-for-you setup using insurance-specific playbooks so you’re not guessing on messaging
+
+---
+
+### Pricing
+
+* **Setup**: **$4,000** one-time
+* **Monthly**: **$997/month** (platform + AI + campaign management; ad spend separate)
+
+---
+
+### Positioning Statement
+
+“We build your entire digital front door — website, ads, and 24/7 AI — so the only thing your producers do is show up to talk to pre-qualified prospects who already asked for a quote.”
+
+---
+
+### ROI Calculation
+
+Conservative funnel:
+
+* 40 new quote requests/month from ads & website
+* 25% close rate → **10 new policies/month**
+* Avg annual premium: **$1,500**
+
+Math:
+
+* 10 policies/month × 12 months = 120 policies/year
+* 120 × $1,500 = **$180,000/year in new premium**
+
+Investment:
+
+* Year 1 cost = $4,000 + ($997 × 12) = $4,000 + $11,964 = **$15,964**
+
+That’s **$180,000** in new premium for ~$16K in platform + management — more than **10x** before renewals.
+
+---
+
+### Social Proof Hook
+
+“We’re rolling this same ‘AI + marketing’ model out to Germania’s top brokers ahead of ServQuik’s 2026 summit presentation — you get to implement the system *before* it’s shown to a room of your competitors.”
+
+---
+
+### Objection Handled
+
+**Objection**: “We tried ads/agency marketing before and just burned money.”
+
+**Answer**: This isn’t a generic marketing agency. We run **insurance-specific funnels** tied directly into a 24/7 AI that captures and qualifies leads instead of dumping them in your inbox. You’re not buying ‘likes’; you’re buying quoted opportunities.
+
+---
+
+### Urgency/Scarcity Element
+
+We’re limiting this **Full-Funnel Growth Bundle** to **10 agencies** before the Germania summit to keep territory overlap low. If a competitor in your area locks it in, we won’t run the same campaign framework for their direct competitors.
+
+---
+
+---
+
+## 3️⃣ Germania Elite Concierge™ – Custom AI CSR for Top Brokers
+
+**Offer Name**: Germania Elite Concierge™ – Custom AI CSR
+
+**Target Customer**:
+
+* **Agency size**: 8–30+ staff, multi-line Germania-affiliated broker
+* **Current state**: High call volume across personal and commercial; complex internal workflows; producers bogged down in admin
+* **Pain point**: “Our processes are too complex for a generic bot; our CSRs are buried in quote intake and service tasks.”
+
+**Offer Type**: Custom/Vertical
+
+---
+
+### Components
+
+* Deep-dive mapping of your existing quote and service workflows
+* Custom AI trained on your **specific** products, carriers, and Germania procedures
+* 14+ personal lines quote flows (auto, home, tenant, condo, umbrella, etc.)
+* 7+ business/commercial quote flows (BOP, commercial auto, liability, etc.) — mirroring the Buchanan build
+* Integration with your AMS/CRM for pushing structured quote data and service tickets
+* 24/7 coverage across phone, chat, email, and SMS for:
+
+  * Quote intake
+  * Policy changes
+  * ID card/certificate requests
+* Staff training and quarterly optimization sessions
+
+---
+
+### Pricing
+
+* **Setup**: **$7,500** one-time
+* **Monthly**: **$997/month**
+
+---
+
+### Positioning Statement
+
+“We build you a custom AI CSR that speaks *your* playbook — handling quote intake and routine service for every major line so your licensed team focuses on closing and renewals, not data entry.”
+
+---
+
+### ROI Calculation
+
+Operational savings only (ignoring faster-close revenue):
+
+* 200 quotes/month across all lines
+* Each quote currently consumes ~20 minutes of staff time
+* 200 × 20 = **4,000 minutes/month** (66.7 hours)
+* AI reduces manual time by 70% → saves **2,800 minutes** ≈ **46.7 hours/month**
+
+Assume fully loaded CSR cost = **$35/hour** (salary + taxes + benefits):
+
+* 46.7 × $35 ≈ **$1,635/month** saved
+
+Annualized:
+
+* $1,635 × 12 ≈ **$19,620/year** in labor freed
+
+Add in faster response (being first to respond wins 78% of the business) → capturing even **2 additional policies/week** at $1,500 annual premium:
+
+* 2 policies/week × 52 weeks = 104 policies/year
+* 104 × $1,500 = **$156,000/year** in extra premium
+
+Total impact easily **$175K+**/year from a system that costs:
+
+* Year 1 = $7,500 + ($997 × 12) = $7,500 + $11,964 = **$19,464**
+
+---
+
+### Social Proof Hook
+
+“This is modeled directly after our Buchanan Insurance build — a Germania-referred broker that invested $5,000 to automate conversational quote intake for 21+ products. Germania is now partnering with ServQuik to refer this level of AI automation to top brokers.”
+
+---
+
+### Objection Handled
+
+**Objection**: “Our workflows are too unique; implementation will eat my team’s time and still not match how we work.”
+
+**Answer**: Implementation is done *with* you, not *by* you. We interview your team, document current workflows, prototype flows, and handle all the heavy lifting. Your staff just validates and tweaks — and you keep total control over how the AI behaves.
+
+---
+
+### Urgency/Scarcity Element
+
+To protect quality and our Germania relationship, we’re only taking **3 Elite Concierge builds per quarter**. Once your region has an Elite Concierge agency live, we **won’t** offer the same depth of customization to your immediate competitors.
+
+---
+
+---
+
+## 4️⃣ Service Desk Offload Engine™ – AI Tier-1 CSR
+
+**Offer Name**: Service Desk Offload Engine™ – AI Tier-1 CSR
+
+**Target Customer**:
+
+* **Agency size**: 10–40+ person agencies with large existing books
+* **Current state**: CSRs overwhelmed with ID cards, certificates, address changes, and simple coverage questions
+* **Pain point**: Producers can’t focus on selling because the team is drowning in service; hold times and response delays are creeping up
+
+**Offer Type**: AI-Only (Omnichannel)
+
+---
+
+### Components
+
+* AI Omni Agent configured as a **Tier-1 CSR** for:
+
+  * ID cards & proof of insurance
+  * Certificate of insurance requests
+  * Address/phone/driver changes
+  * Basic billing/payment questions
+  * Simple coverage FAQs, routed to human when needed
+* Phone, chat, email, and SMS support, 24/7
+* Smart routing: AI resolves what it can, creates tickets for humans on what it can’t
+* Integration with your existing ticketing or AMS workflows
+* Weekly service report: volumes handled by AI vs human, average response time, and common request types
+
+---
+
+### Pricing
+
+* **Setup**: **$3,000** one-time
+* **Monthly**: **$699/month**
+
+---
+
+### Positioning Statement
+
+“We give you a 24/7 Tier-1 CSR that handles the repetitive 60–80% of service touches so your licensed staff get their time back to protect and grow your book.”
+
+---
+
+### ROI Calculation
+
+Capacity freed (not even counting extra sales from producers):
+
+* 3 CSRs
+* Each spends ~2 hours/day on repetitive Tier-1 tasks
+* 3 CSRs × 2 hours/day × 22 workdays/month ≈ **132 hours/month**
+
+Assume fully loaded cost ≈ **$30/hour**:
+
+* 132 × $30 = **$3,960/month** in Tier-1 work
+
+Annualized:
+
+* $3,960 × 12 = **$47,520/year** in capacity you can redeploy
+
+Investment:
+
+* Year 1 = $3,000 + ($699 × 12) = $3,000 + $8,388 = **$11,388**
+
+Even if you only monetize **half** that freed time into retention saves and cross-sells, you’re turning ~$11K into ~$24K–$47K.
+
+---
+
+### Social Proof Hook
+
+“Germania picked ServQuik as an AI CSR partner and is putting us on stage at their 2026 summit — the same service engine we showcase there is what we’ll install in your agency now.”
+
+---
+
+### Objection Handled
+
+**Objection**: “Is this going to replace my CSRs and freak out the team?”
+
+**Answer**: No layoffs required. We position this explicitly as a **Tier-1 assistant** — your people stay in control. Most agencies reassign CSRs to higher-value retention and remarketing work instead of burnout-inducing repetitive tasks.
+
+---
+
+### Urgency/Scarcity Element
+
+We offer **geographic semi-exclusivity** for this service model. Once we partner with one Service Desk Offload Engine client in a given metro, we won’t actively sell the same service configuration to direct competitors in that area.
+
+---
+
+---
+
+## 5️⃣ No-Risk 90-Day AI Pilot™ – “Prove It or We Work for Free”
+
+**Offer Name**: No-Risk 90-Day AI Pilot™ – “Prove It or We Work for Free”
+
+**Target Customer**:
+
+* **Agency size**: 1–8 person independent agencies
+* **Current state**: Curious about AI but skeptical; already burned by software that “nobody used”
+* **Pain point**: Don’t want long contracts or big upfront spend on something unproven; scared it’ll just be another unused tool
+
+**Offer Type**: AI-Only (Voice + Chat + SMS)
+
+---
+
+### Components
+
+* AI Voice Agent on main line for after-hours + overflow
+* AI Web Chat widget for “Get a quote” and “Make a change”
+* Missed-call text-back + basic SMS nurturing
+* Simple personal-lines quote intake (auto/home/renter)
+* Basic service flows (messages taken, ID card requests, etc.)
+* Full done-for-you setup + light training for your team
+* Performance dashboard showing:
+
+  * Calls answered by AI
+  * Quotes captured
+  * Appointments booked
+
+---
+
+### Pricing
+
+* **Setup**: **$0** (waived for pilot)
+* **Monthly**: **$497/month for 3 months** (90-day pilot, then month-to-month)
+
+---
+
+### Positioning Statement
+
+“We’ll install and run a 24/7 AI receptionist and quote assistant for 90 days — if it doesn’t generate at least **15 additional quote opportunities**, we keep working for free until it does.”
+
+---
+
+### ROI Calculation
+
+Pilot goal:
+
+* Minimum **15 extra quote opportunities in 90 days**
+* Close just **30%** → ~5 extra policies in 3 months
+* Avg annual premium = **$1,200**
+
+Revenue:
+
+* 5 × $1,200 = **$6,000/year** in new premium from the bare minimum result
+
+Investment:
+
+* 90 days: 3 × $497 = **$1,491**
+
+Even at the **minimum** threshold, you’re trading ~$1.5K for ~$6K in new premium in year one – 4x — plus renewal value if they stay.
+
+Reality: often you’ll exceed the 15-quote minimum, especially if you’re currently missing after-hours calls.
+
+---
+
+### Social Proof Hook
+
+“One of Germania’s referred brokers, Buchanan Insurance, invested $5,000 upfront for a much deeper build. This pilot lets you tap into the same AI backbone with **no setup fee** and a simple 90-day ‘prove it’ window.”
+
+---
+
+### Objection Handled
+
+**Objection**: “We’ve bought tech before that nobody used; I don’t want to get locked into another system.”
+
+**Answer**: There’s **no long-term contract**. 90 days, clear success metric (15+ quote opportunities), then **month-to-month**. If we don’t hit the number, we keep working for free until we do — the burden is on *us* to prove it’s worth keeping.
+
+---
+
+### Urgency/Scarcity Element
+
+We’re capping this **No-Risk 90-Day AI Pilot** at **10 agencies** tied to the Germania referral program and early insurance adopters. Once we’ve filled those pilot slots, the setup fee returns to the standard $1,500+.
+
+---
+
+If you tell me which of these 5 you want to lead with (e.g., for cold outreach vs. Germania warm referrals), I can help you turn it into a one-sentence “Hormozi-style” power offer plus a short DM/email script.
